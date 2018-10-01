@@ -1,6 +1,6 @@
-# Laravel Auth with Username and Email address 
+# Laravel Auth with Username or Email address 
 
-> An example project that covers login/register with username and email.
+> An example project that covers login/register with username or email.
 
 ## Setup
 Follow Laravel installation [steps](https://laravel.com/docs/5.6/installation#installation)
